@@ -1,0 +1,11 @@
+[package]
+name = "charfreq"
+description = "Very simply command-line tool that counts (unicode) character frequency from standard input"
+authors = ["Maarten van Gompel <proycon@anaproy.nl>"]
+license = "GPL-3.0-only"
+readme = "README.md"
+repository = "https://github.com/proycon/charfreq"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
